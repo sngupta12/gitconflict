@@ -1,0 +1,2 @@
+# gitconflict
+for self knowledge
